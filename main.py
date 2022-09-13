@@ -1,4 +1,4 @@
-import requests, random, time, logging, os
+import requests, random, time, logging, os, ctypes
 os.system("")
 logging.basicConfig(
     level=logging.INFO,
